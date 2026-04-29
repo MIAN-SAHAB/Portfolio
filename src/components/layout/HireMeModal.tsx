@@ -1,8 +1,8 @@
 "use client";
 
-import { motion, AnimatePresence } from "framer-motion";
 import { X } from "lucide-react";
-import { useEffect } from "react";
+import { useEffect, useRef, useState } from "react";
+import gsap from "gsap";
 
 interface ModalProps {
   isOpen: boolean;
@@ -10,28 +10,62 @@ interface ModalProps {
 }
 
 export default function HireMeModal({ isOpen, onClose }: ModalProps) {
+  const overlayRef = useRef<HTMLDivElement>(null);
+  const modalRef = useRef<HTMLDivElement>(null);
+  const [shouldRender, setShouldRender] = useState(isOpen);
+
   useEffect(() => {
-    if (isOpen) document.body.style.overflow = "hidden";
-    else document.body.style.overflow = "unset";
+    if (isOpen) {
+      document.body.style.overflow = "hidden";
+    } else {
+      document.body.style.overflow = "unset";
+    }
   }, [isOpen]);
 
+  useEffect(() => {
+    let timeout: NodeJS.Timeout;
+    if (isOpen && !shouldRender) {
+      timeout = setTimeout(() => setShouldRender(true), 0);
+    }
+    return () => clearTimeout(timeout);
+  }, [isOpen, shouldRender]);
+
+  useEffect(() => {
+    if (isOpen && shouldRender) {
+      if (overlayRef.current) {
+        gsap.fromTo(overlayRef.current, { opacity: 0 }, { opacity: 1, duration: 0.3 });
+      }
+      if (modalRef.current) {
+        gsap.fromTo(
+          modalRef.current,
+          { opacity: 0, scale: 0.9, y: 20 },
+          { opacity: 1, scale: 1, y: 0, duration: 0.4, ease: "back.out(1.5)" }
+        );
+      }
+    } else if (!isOpen && shouldRender) {
+      const tl = gsap.timeline({ onComplete: () => setShouldRender(false) });
+      if (overlayRef.current) {
+        tl.to(overlayRef.current, { opacity: 0, duration: 0.3 }, 0);
+      }
+      if (modalRef.current) {
+        tl.to(modalRef.current, { opacity: 0, scale: 0.9, y: 20, duration: 0.3 }, 0);
+      }
+    }
+  }, [isOpen, shouldRender]);
+
+  if (!shouldRender) return null;
+
   return (
-    <AnimatePresence>
-      {isOpen && (
-        <>
-          <motion.div
-            initial={{ opacity: 0 }}
-            animate={{ opacity: 1 }}
-            exit={{ opacity: 0 }}
-            onClick={onClose}
-            className="fixed inset-0 bg-black/80 backdrop-blur-sm z-[100]"
-          />
-          <motion.div
-            initial={{ opacity: 0, scale: 0.9, y: 20 }}
-            animate={{ opacity: 1, scale: 1, y: 0 }}
-            exit={{ opacity: 0, scale: 0.9, y: 20 }}
-            className="fixed top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-full max-w-lg z-[101] p-6"
-          >
+    <>
+      <div
+        ref={overlayRef}
+        onClick={onClose}
+        className="fixed inset-0 bg-black/80 backdrop-blur-sm z-[100]"
+      />
+      <div
+        ref={modalRef}
+        className="fixed top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-full max-w-lg z-[101] p-6"
+      >
             <div className="glass-card rounded-2xl p-8 relative">
               <button
                 onClick={onClose}
@@ -61,9 +95,7 @@ export default function HireMeModal({ isOpen, onClose }: ModalProps) {
                 </button>
               </form>
             </div>
-          </motion.div>
-        </>
-      )}
-    </AnimatePresence>
+      </div>
+    </>
   );
 }

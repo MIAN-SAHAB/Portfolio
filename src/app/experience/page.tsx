@@ -1,7 +1,12 @@
 "use client";
 
-import { motion } from "framer-motion";
+
 import { Briefcase, GraduationCap } from "lucide-react";
+import { useEffect, useRef } from "react";
+import gsap from "gsap";
+import { ScrollTrigger } from "gsap/ScrollTrigger";
+
+gsap.registerPlugin(ScrollTrigger);
 
 const experiences = [
   {
@@ -39,17 +44,48 @@ const experiences = [
 ];
 
 export default function ExperiencePage() {
+  const containerRef = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    if (containerRef.current) {
+      const header = containerRef.current.querySelector(".header-section");
+      gsap.fromTo(
+        header,
+        { opacity: 0, y: 20 },
+        { opacity: 1, y: 0, duration: 0.5, ease: "power2.out" }
+      );
+
+      const items = containerRef.current.querySelectorAll(".timeline-item");
+      items.forEach((item, index) => {
+        gsap.fromTo(
+          item,
+          { opacity: 0, y: 50 },
+          {
+            opacity: 1,
+            y: 0,
+            duration: 0.6,
+            delay: index * 0.1,
+            ease: "power2.out",
+            scrollTrigger: {
+              trigger: item,
+              start: "top 85%",
+              once: true,
+            },
+          }
+        );
+      });
+    }
+  }, []);
+
   return (
-    <div className="container mx-auto px-6 py-20">
-      <motion.div
-        initial={{ opacity: 0, y: 20 }}
-        animate={{ opacity: 1, y: 0 }}
-        transition={{ duration: 0.5 }}
-      >
-        <h1 className="text-5xl md:text-7xl font-bold mb-4 neon-text">Timeline.</h1>
-        <p className="text-xl text-gray-400 mb-20 max-w-2xl">
-          My professional journey and academic background shaping my expertise since 2018.
-        </p>
+    <div className="container mx-auto px-6 py-20" ref={containerRef}>
+      <div>
+        <div className="header-section opacity-0">
+          <h1 className="text-5xl md:text-7xl font-bold mb-4 neon-text">Timeline.</h1>
+          <p className="text-xl text-gray-400 mb-20 max-w-2xl">
+            My professional journey and academic background shaping my expertise since 2018.
+          </p>
+        </div>
 
         <div className="relative max-w-4xl mx-auto">
           {/* Vertical Timeline Line */}
@@ -58,13 +94,9 @@ export default function ExperiencePage() {
           {experiences.map((exp, index) => {
             const isEven = index % 2 === 0;
             return (
-              <motion.div
+              <div
                 key={index}
-                initial={{ opacity: 0, y: 50 }}
-                whileInView={{ opacity: 1, y: 0 }}
-                viewport={{ once: true, margin: "-100px" }}
-                transition={{ duration: 0.6, delay: index * 0.1 }}
-                className={`relative flex flex-col md:flex-row mb-16 ${
+                className={`timeline-item relative flex flex-col md:flex-row mb-16 opacity-0 ${
                   isEven ? "md:justify-end" : "md:justify-start"
                 }`}
               >
@@ -100,11 +132,11 @@ export default function ExperiencePage() {
                     </div>
                   </div>
                 </div>
-              </motion.div>
+              </div>
             );
           })}
         </div>
-      </motion.div>
+      </div>
     </div>
   );
 }

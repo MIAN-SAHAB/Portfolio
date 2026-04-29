@@ -1,7 +1,9 @@
 "use client";
 
-import { motion } from "framer-motion";
+
 import ProjectCard, { ProjectType } from "@/components/projects/ProjectCard";
+import { useEffect, useRef } from "react";
+import gsap from "gsap";
 
 const projects: ProjectType[] = [
   {
@@ -15,7 +17,7 @@ const projects: ProjectType[] = [
     title: "Pixelbee",
     description: "Creative agency portfolio with custom heavy animations, advanced scroll effects, and WebGL integration for immersive experiences.",
     url: "https://pixelbee.me",
-    tech: ["React", "Three.js", "GSAP", "Framer Motion"],
+    tech: ["React", "Three.js", "GSAP", "Tailwind"],
     gradient: "from-purple-600 to-pink-500"
   },
   {
@@ -46,24 +48,32 @@ const projects: ProjectType[] = [
 ];
 
 export default function ProjectsPage() {
+  const headerRef = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    if (headerRef.current) {
+      gsap.fromTo(
+        headerRef.current,
+        { opacity: 0, y: 20 },
+        { opacity: 1, y: 0, duration: 0.5, ease: "power2.out" }
+      );
+    }
+  }, []);
+
   return (
     <div className="container mx-auto px-6 py-20">
-      <motion.div
-        initial={{ opacity: 0, y: 20 }}
-        animate={{ opacity: 1, y: 0 }}
-        transition={{ duration: 0.5 }}
-      >
+      <div ref={headerRef} className="opacity-0">
         <h1 className="text-5xl md:text-7xl font-bold mb-4 neon-text">Selected Works.</h1>
         <p className="text-xl text-gray-400 mb-16 max-w-2xl">
           A showcase of enterprise applications, creative portfolios, and complex systemic solutions engineered since 2018.
         </p>
+      </div>
 
-        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-          {projects.map((project, i) => (
-            <ProjectCard key={project.title} project={project} index={i} />
-          ))}
-        </div>
-      </motion.div>
+      <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+        {projects.map((project, i) => (
+          <ProjectCard key={project.title} project={project} index={i} />
+        ))}
+      </div>
     </div>
   );
 }

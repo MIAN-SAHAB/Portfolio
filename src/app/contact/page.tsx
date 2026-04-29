@@ -1,18 +1,47 @@
 "use client";
 
-import { motion } from "framer-motion";
+
 import { Mail, MessageCircle, MapPin, Send } from "lucide-react";
+import { useEffect, useRef } from "react";
+import gsap from "gsap";
 
 export default function ContactPage() {
+  const containerRef = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    if (containerRef.current) {
+      const header = containerRef.current.querySelector(".header-section");
+      const leftCol = containerRef.current.querySelector(".left-col");
+      const rightCol = containerRef.current.querySelector(".right-col");
+
+      gsap.fromTo(
+        header,
+        { opacity: 0, y: 20 },
+        { opacity: 1, y: 0, duration: 0.5, ease: "power2.out" }
+      );
+
+      if (leftCol) {
+        gsap.fromTo(
+          leftCol,
+          { opacity: 0, x: -30 },
+          { opacity: 1, x: 0, duration: 0.6, delay: 0.2, ease: "power2.out" }
+        );
+      }
+
+      if (rightCol) {
+        gsap.fromTo(
+          rightCol,
+          { opacity: 0, x: 30 },
+          { opacity: 1, x: 0, duration: 0.6, delay: 0.4, ease: "power2.out" }
+        );
+      }
+    }
+  }, []);
+
   return (
-    <div className="container mx-auto px-6 py-20 min-h-[80vh] flex flex-col justify-center">
-      <motion.div
-        initial={{ opacity: 0, y: 20 }}
-        animate={{ opacity: 1, y: 0 }}
-        transition={{ duration: 0.5 }}
-        className="max-w-6xl mx-auto w-full"
-      >
-        <div className="text-center mb-16">
+    <div className="container mx-auto px-6 py-20 min-h-[80vh] flex flex-col justify-center" ref={containerRef}>
+      <div className="max-w-6xl mx-auto w-full">
+        <div className="header-section text-center mb-16 opacity-0">
           <h1 className="text-5xl md:text-7xl font-bold mb-4 neon-text">Let&apos;s Connect.</h1>
           <p className="text-xl text-gray-400 max-w-2xl mx-auto">
             Available for freelance opportunities, full-time roles, and interesting projects. Reach out and let&apos;s build something extraordinary.
@@ -22,12 +51,7 @@ export default function ContactPage() {
         <div className="grid lg:grid-cols-5 gap-12">
           {/* Contact Info */}
           <div className="lg:col-span-2 space-y-8">
-            <motion.div
-              initial={{ opacity: 0, x: -30 }}
-              animate={{ opacity: 1, x: 0 }}
-              transition={{ delay: 0.2 }}
-              className="glass-card p-8 rounded-3xl"
-            >
+            <div className="left-col glass-card p-8 rounded-3xl opacity-0">
               <h3 className="text-2xl font-bold mb-8 text-white">Direct Contacts</h3>
 
               <div className="space-y-6">
@@ -69,16 +93,11 @@ export default function ContactPage() {
                   </div>
                 </div>
               </div>
-            </motion.div>
+            </div>
           </div>
 
           {/* Contact Form */}
-          <motion.div
-            initial={{ opacity: 0, x: 30 }}
-            animate={{ opacity: 1, x: 0 }}
-            transition={{ delay: 0.4 }}
-            className="lg:col-span-3 glass-card p-8 md:p-12 rounded-3xl"
-          >
+          <div className="right-col lg:col-span-3 glass-card p-8 md:p-12 rounded-3xl opacity-0">
             <h3 className="text-3xl font-bold mb-8 text-white">Send a Message</h3>
 
             <form className="space-y-6" onSubmit={(e) => e.preventDefault()}>
@@ -122,9 +141,9 @@ export default function ContactPage() {
                 <Send size={20} /> Send Message
               </button>
             </form>
-          </motion.div>
+          </div>
         </div>
-      </motion.div>
+      </div>
     </div>
   );
 }

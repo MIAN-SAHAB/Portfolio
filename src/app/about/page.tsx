@@ -1,23 +1,23 @@
 "use client";
 
-import { motion } from "framer-motion";
+
 import { Code2, Database, Layout, Server } from "lucide-react";
+import { useEffect, useRef } from "react";
+import gsap from "gsap";
 
 export default function AboutPage() {
-  const containerVariants = {
-    hidden: { opacity: 0 },
-    visible: {
-      opacity: 1,
-      transition: {
-        staggerChildren: 0.2
-      }
-    }
-  };
+  const containerRef = useRef<HTMLDivElement>(null);
 
-  const itemVariants = {
-    hidden: { opacity: 0, y: 20 },
-    visible: { opacity: 1, y: 0 }
-  };
+  useEffect(() => {
+    if (containerRef.current) {
+      const elements = containerRef.current.querySelectorAll(".animate-item");
+      gsap.fromTo(
+        elements,
+        { opacity: 0, y: 20 },
+        { opacity: 1, y: 0, duration: 0.8, stagger: 0.2, ease: "power2.out" }
+      );
+    }
+  }, []);
 
   const strengths = [
     {
@@ -44,17 +44,15 @@ export default function AboutPage() {
 
   return (
     <div className="container mx-auto px-6 py-20">
-      <motion.div
-        initial="hidden"
-        animate="visible"
-        variants={containerVariants}
+      <div
+        ref={containerRef}
         className="max-w-4xl mx-auto"
       >
-        <motion.h1 variants={itemVariants} className="text-5xl md:text-7xl font-bold mb-8 neon-text">
+        <h1 className="animate-item text-5xl md:text-7xl font-bold mb-8 neon-text opacity-0">
           About Me.
-        </motion.h1>
+        </h1>
 
-        <motion.div variants={itemVariants} className="glass-card p-8 md:p-12 rounded-3xl mb-16">
+        <div className="animate-item glass-card p-8 md:p-12 rounded-3xl mb-16 opacity-0">
           <h2 className="text-2xl md:text-3xl font-medium mb-6 text-primary">The Journey Since 2018</h2>
           <div className="space-y-6 text-gray-300 text-lg leading-relaxed">
             <p>
@@ -70,24 +68,23 @@ export default function AboutPage() {
               My philosophy is simple: Code should not only work flawlessly but should be elegant, maintainable, and built with future scalability in mind.
             </p>
           </div>
-        </motion.div>
+        </div>
 
-        <motion.h2 variants={itemVariants} className="text-3xl font-bold mb-8">Technical Strengths</motion.h2>
+        <h2 className="animate-item text-3xl font-bold mb-8 opacity-0">Technical Strengths</h2>
 
-        <motion.div variants={containerVariants} className="grid md:grid-cols-2 gap-6">
+        <div className="animate-item grid md:grid-cols-2 gap-6 opacity-0">
           {strengths.map((strength, i) => (
-            <motion.div
+            <div
               key={i}
-              variants={itemVariants}
               className="glass p-8 rounded-2xl hover:bg-white/5 transition-colors group"
             >
               {strength.icon}
               <h3 className="text-xl font-bold mb-3 text-white group-hover:text-primary transition-colors">{strength.title}</h3>
               <p className="text-gray-400">{strength.desc}</p>
-            </motion.div>
+            </div>
           ))}
-        </motion.div>
-      </motion.div>
+        </div>
+      </div>
     </div>
   );
 }

@@ -1,7 +1,11 @@
 "use client";
 
-import { motion } from "framer-motion";
 import { ExternalLink, Code } from "lucide-react";
+import { useEffect, useRef } from "react";
+import gsap from "gsap";
+import { ScrollTrigger } from "gsap/ScrollTrigger";
+
+gsap.registerPlugin(ScrollTrigger);
 
 export interface ProjectType {
   title: string;
@@ -13,13 +17,33 @@ export interface ProjectType {
 }
 
 export default function ProjectCard({ project, index }: { project: ProjectType; index: number }) {
+  const cardRef = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    if (cardRef.current) {
+      gsap.fromTo(
+        cardRef.current,
+        { opacity: 0, y: 30 },
+        {
+          opacity: 1,
+          y: 0,
+          duration: 0.5,
+          delay: index * 0.1,
+          ease: "power2.out",
+          scrollTrigger: {
+            trigger: cardRef.current,
+            start: "top 85%",
+            once: true,
+          },
+        }
+      );
+    }
+  }, [index]);
+
   return (
-    <motion.div
-      initial={{ opacity: 0, y: 30 }}
-      whileInView={{ opacity: 1, y: 0 }}
-      viewport={{ once: true }}
-      transition={{ delay: index * 0.1, duration: 0.5 }}
-      className="glass-card rounded-2xl overflow-hidden group relative flex flex-col h-full"
+    <div
+      ref={cardRef}
+      className="glass-card rounded-2xl overflow-hidden group relative flex flex-col h-full opacity-0"
     >
       {/* Abstract visual placeholder for project screenshot */}
       <div className={`h-48 w-full bg-gradient-to-br ${project.gradient} relative overflow-hidden`}>
@@ -69,6 +93,6 @@ export default function ProjectCard({ project, index }: { project: ProjectType; 
           )}
         </div>
       </div>
-    </motion.div>
+    </div>
   );
 }
