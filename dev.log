@@ -10,3 +10,4269 @@
 ○ Compiling / ...
  GET / 200 in 6.0s (next.js: 5.4s, application-code: 622ms)
  GET / 200 in 78ms (next.js: 5ms, application-code: 72ms)
+⨯ ./src/components/home/AnimatedStats.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m
+  [90m5 |[0m [36mconst[0m stats = [
+  [90m6 |[0m   { label: [32m"Years Experience"[0m, value: [32m"5+"[0m },
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/AnimatedStats.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/AnimatedStats.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m
+  [90m5 |[0m [36mconst[0m stats = [
+  [90m6 |[0m   { label: [32m"Years Experience"[0m, value: [32m"5+"[0m },
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/AnimatedStats.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/AnimatedStats.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m
+  [90m5 |[0m [36mconst[0m stats = [
+  [90m6 |[0m   { label: [32m"Years Experience"[0m, value: [32m"5+"[0m },
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/AnimatedStats.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/AnimatedStats.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m
+  [90m5 |[0m [36mconst[0m stats = [
+  [90m6 |[0m   { label: [32m"Years Experience"[0m, value: [32m"5+"[0m },
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/AnimatedStats.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/HeroSection.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mArrowRight[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useModals } [36mfrom[0m [32m"@/components/layout/LayoutClient"[0m;
+  [90m6 |[0m [36mimport[0m [33mLink[0m [36mfrom[0m [32m"next/link"[0m;
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/HeroSection.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/HeroSection.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mArrowRight[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useModals } [36mfrom[0m [32m"@/components/layout/LayoutClient"[0m;
+  [90m6 |[0m [36mimport[0m [33mLink[0m [36mfrom[0m [32m"next/link"[0m;
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/HeroSection.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/HeroSection.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mArrowRight[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useModals } [36mfrom[0m [32m"@/components/layout/LayoutClient"[0m;
+  [90m6 |[0m [36mimport[0m [33mLink[0m [36mfrom[0m [32m"next/link"[0m;
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/HeroSection.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/HeroSection.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mArrowRight[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useModals } [36mfrom[0m [32m"@/components/layout/LayoutClient"[0m;
+  [90m6 |[0m [36mimport[0m [33mLink[0m [36mfrom[0m [32m"next/link"[0m;
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/HeroSection.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/ContactModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion, [33mAnimatePresence[0m } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mX[0m, [33mMail[0m, [33mMessageCircle[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useEffect } [36mfrom[0m [32m"react"[0m;
+  [90m6 |[0m
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/ContactModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/ContactModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/ContactModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion, [33mAnimatePresence[0m } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mX[0m, [33mMail[0m, [33mMessageCircle[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useEffect } [36mfrom[0m [32m"react"[0m;
+  [90m6 |[0m
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/ContactModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/ContactModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/ContactModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion, [33mAnimatePresence[0m } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mX[0m, [33mMail[0m, [33mMessageCircle[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useEffect } [36mfrom[0m [32m"react"[0m;
+  [90m6 |[0m
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/ContactModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/ContactModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/ContactModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion, [33mAnimatePresence[0m } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mX[0m, [33mMail[0m, [33mMessageCircle[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useEffect } [36mfrom[0m [32m"react"[0m;
+  [90m6 |[0m
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/ContactModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/ContactModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/ContactModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion, [33mAnimatePresence[0m } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mX[0m, [33mMail[0m, [33mMessageCircle[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useEffect } [36mfrom[0m [32m"react"[0m;
+  [90m6 |[0m
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/ContactModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/ContactModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/ContactModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion, [33mAnimatePresence[0m } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mX[0m, [33mMail[0m, [33mMessageCircle[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useEffect } [36mfrom[0m [32m"react"[0m;
+  [90m6 |[0m
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/ContactModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/ContactModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/HireMeModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion, [33mAnimatePresence[0m } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mX[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useEffect } [36mfrom[0m [32m"react"[0m;
+  [90m6 |[0m
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/HireMeModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/HireMeModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/HireMeModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion, [33mAnimatePresence[0m } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mX[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useEffect } [36mfrom[0m [32m"react"[0m;
+  [90m6 |[0m
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/HireMeModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/HireMeModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/HireMeModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion, [33mAnimatePresence[0m } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mX[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useEffect } [36mfrom[0m [32m"react"[0m;
+  [90m6 |[0m
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/HireMeModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/HireMeModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/HireMeModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion, [33mAnimatePresence[0m } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mX[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useEffect } [36mfrom[0m [32m"react"[0m;
+  [90m6 |[0m
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/HireMeModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/HireMeModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/HireMeModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion, [33mAnimatePresence[0m } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mX[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useEffect } [36mfrom[0m [32m"react"[0m;
+  [90m6 |[0m
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/HireMeModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/HireMeModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/HireMeModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion, [33mAnimatePresence[0m } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mX[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useEffect } [36mfrom[0m [32m"react"[0m;
+  [90m6 |[0m
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/HireMeModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/HireMeModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/Navbar.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m [33mLink[0m [36mfrom[0m [32m"next/link"[0m;
+  [90m5 |[0m [36mimport[0m { usePathname } [36mfrom[0m [32m"next/navigation"[0m;
+  [90m6 |[0m [36mimport[0m { useState } [36mfrom[0m [32m"react"[0m;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/Navbar.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/Navbar.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/Navbar.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m [33mLink[0m [36mfrom[0m [32m"next/link"[0m;
+  [90m5 |[0m [36mimport[0m { usePathname } [36mfrom[0m [32m"next/navigation"[0m;
+  [90m6 |[0m [36mimport[0m { useState } [36mfrom[0m [32m"react"[0m;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/Navbar.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/Navbar.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/Navbar.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m [33mLink[0m [36mfrom[0m [32m"next/link"[0m;
+  [90m5 |[0m [36mimport[0m { usePathname } [36mfrom[0m [32m"next/navigation"[0m;
+  [90m6 |[0m [36mimport[0m { useState } [36mfrom[0m [32m"react"[0m;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/Navbar.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/Navbar.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/Navbar.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m [33mLink[0m [36mfrom[0m [32m"next/link"[0m;
+  [90m5 |[0m [36mimport[0m { usePathname } [36mfrom[0m [32m"next/navigation"[0m;
+  [90m6 |[0m [36mimport[0m { useState } [36mfrom[0m [32m"react"[0m;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/Navbar.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/Navbar.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/ui/CustomCursor.tsx:4:1
+Module not found: Can't resolve 'framer-motion'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m { useEffect, useState } [36mfrom[0m [32m"react"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m
+  [90m6 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mCustomCursor[0m() {
+  [90m7 |[0m   [36mconst[0m [mousePosition, setMousePosition] = useState({ x: [35m0[0m, y: [35m0[0m });
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/ui/CustomCursor.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/ui/CustomCursor.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/ui/CustomCursor.tsx:4:1
+Module not found: Can't resolve 'framer-motion'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m { useEffect, useState } [36mfrom[0m [32m"react"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m
+  [90m6 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mCustomCursor[0m() {
+  [90m7 |[0m   [36mconst[0m [mousePosition, setMousePosition] = useState({ x: [35m0[0m, y: [35m0[0m });
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/ui/CustomCursor.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/ui/CustomCursor.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/ui/CustomCursor.tsx:4:1
+Module not found: Can't resolve 'framer-motion'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m { useEffect, useState } [36mfrom[0m [32m"react"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m
+  [90m6 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mCustomCursor[0m() {
+  [90m7 |[0m   [36mconst[0m [mousePosition, setMousePosition] = useState({ x: [35m0[0m, y: [35m0[0m });
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/ui/CustomCursor.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/ui/CustomCursor.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/ui/CustomCursor.tsx:4:1
+Module not found: Can't resolve 'framer-motion'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m { useEffect, useState } [36mfrom[0m [32m"react"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m
+  [90m6 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mCustomCursor[0m() {
+  [90m7 |[0m   [36mconst[0m [mousePosition, setMousePosition] = useState({ x: [35m0[0m, y: [35m0[0m });
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/ui/CustomCursor.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/ui/CustomCursor.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/ui/LoadingScreen.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { useEffect, useState } [36mfrom[0m [32m"react"[0m;
+  [90m5 |[0m
+  [90m6 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mLoadingScreen[0m() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/ui/LoadingScreen.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/ui/LoadingScreen.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/ui/LoadingScreen.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { useEffect, useState } [36mfrom[0m [32m"react"[0m;
+  [90m5 |[0m
+  [90m6 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mLoadingScreen[0m() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/ui/LoadingScreen.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/ui/LoadingScreen.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/ui/LoadingScreen.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { useEffect, useState } [36mfrom[0m [32m"react"[0m;
+  [90m5 |[0m
+  [90m6 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mLoadingScreen[0m() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/ui/LoadingScreen.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/ui/LoadingScreen.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/ui/LoadingScreen.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { useEffect, useState } [36mfrom[0m [32m"react"[0m;
+  [90m5 |[0m
+  [90m6 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mLoadingScreen[0m() {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/ui/LoadingScreen.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/ui/LoadingScreen.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/AnimatedStats.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m
+  [90m5 |[0m [36mconst[0m stats = [
+  [90m6 |[0m   { label: [32m"Years Experience"[0m, value: [32m"5+"[0m },
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/AnimatedStats.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/AnimatedStats.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m
+  [90m5 |[0m [36mconst[0m stats = [
+  [90m6 |[0m   { label: [32m"Years Experience"[0m, value: [32m"5+"[0m },
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/AnimatedStats.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/AnimatedStats.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m
+  [90m5 |[0m [36mconst[0m stats = [
+  [90m6 |[0m   { label: [32m"Years Experience"[0m, value: [32m"5+"[0m },
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/AnimatedStats.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/AnimatedStats.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m
+  [90m5 |[0m [36mconst[0m stats = [
+  [90m6 |[0m   { label: [32m"Years Experience"[0m, value: [32m"5+"[0m },
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/AnimatedStats.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/HeroSection.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mArrowRight[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useModals } [36mfrom[0m [32m"@/components/layout/LayoutClient"[0m;
+  [90m6 |[0m [36mimport[0m [33mLink[0m [36mfrom[0m [32m"next/link"[0m;
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/HeroSection.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/HeroSection.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mArrowRight[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useModals } [36mfrom[0m [32m"@/components/layout/LayoutClient"[0m;
+  [90m6 |[0m [36mimport[0m [33mLink[0m [36mfrom[0m [32m"next/link"[0m;
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/HeroSection.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/HeroSection.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mArrowRight[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useModals } [36mfrom[0m [32m"@/components/layout/LayoutClient"[0m;
+  [90m6 |[0m [36mimport[0m [33mLink[0m [36mfrom[0m [32m"next/link"[0m;
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/HeroSection.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/HeroSection.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mArrowRight[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useModals } [36mfrom[0m [32m"@/components/layout/LayoutClient"[0m;
+  [90m6 |[0m [36mimport[0m [33mLink[0m [36mfrom[0m [32m"next/link"[0m;
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/HeroSection.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/ContactModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion, [33mAnimatePresence[0m } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mX[0m, [33mMail[0m, [33mMessageCircle[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useEffect } [36mfrom[0m [32m"react"[0m;
+  [90m6 |[0m
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/ContactModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/ContactModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/ContactModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion, [33mAnimatePresence[0m } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mX[0m, [33mMail[0m, [33mMessageCircle[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useEffect } [36mfrom[0m [32m"react"[0m;
+  [90m6 |[0m
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/ContactModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/ContactModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/ContactModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion, [33mAnimatePresence[0m } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mX[0m, [33mMail[0m, [33mMessageCircle[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useEffect } [36mfrom[0m [32m"react"[0m;
+  [90m6 |[0m
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/ContactModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/ContactModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/ContactModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion, [33mAnimatePresence[0m } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mX[0m, [33mMail[0m, [33mMessageCircle[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useEffect } [36mfrom[0m [32m"react"[0m;
+  [90m6 |[0m
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/ContactModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/ContactModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/ContactModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion, [33mAnimatePresence[0m } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mX[0m, [33mMail[0m, [33mMessageCircle[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useEffect } [36mfrom[0m [32m"react"[0m;
+  [90m6 |[0m
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/ContactModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/ContactModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/ContactModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion, [33mAnimatePresence[0m } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mX[0m, [33mMail[0m, [33mMessageCircle[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useEffect } [36mfrom[0m [32m"react"[0m;
+  [90m6 |[0m
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/ContactModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/ContactModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/HireMeModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion, [33mAnimatePresence[0m } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mX[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useEffect } [36mfrom[0m [32m"react"[0m;
+  [90m6 |[0m
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/HireMeModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/HireMeModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/HireMeModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion, [33mAnimatePresence[0m } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mX[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useEffect } [36mfrom[0m [32m"react"[0m;
+  [90m6 |[0m
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/HireMeModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/HireMeModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/HireMeModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion, [33mAnimatePresence[0m } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mX[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useEffect } [36mfrom[0m [32m"react"[0m;
+  [90m6 |[0m
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/HireMeModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/HireMeModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/HireMeModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion, [33mAnimatePresence[0m } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mX[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useEffect } [36mfrom[0m [32m"react"[0m;
+  [90m6 |[0m
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/HireMeModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/HireMeModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/HireMeModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion, [33mAnimatePresence[0m } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mX[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useEffect } [36mfrom[0m [32m"react"[0m;
+  [90m6 |[0m
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/HireMeModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/HireMeModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/HireMeModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion, [33mAnimatePresence[0m } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mX[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useEffect } [36mfrom[0m [32m"react"[0m;
+  [90m6 |[0m
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/HireMeModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/HireMeModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/Navbar.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m [33mLink[0m [36mfrom[0m [32m"next/link"[0m;
+  [90m5 |[0m [36mimport[0m { usePathname } [36mfrom[0m [32m"next/navigation"[0m;
+  [90m6 |[0m [36mimport[0m { useState } [36mfrom[0m [32m"react"[0m;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/Navbar.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/Navbar.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/Navbar.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m [33mLink[0m [36mfrom[0m [32m"next/link"[0m;
+  [90m5 |[0m [36mimport[0m { usePathname } [36mfrom[0m [32m"next/navigation"[0m;
+  [90m6 |[0m [36mimport[0m { useState } [36mfrom[0m [32m"react"[0m;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/Navbar.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/Navbar.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/Navbar.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m [33mLink[0m [36mfrom[0m [32m"next/link"[0m;
+  [90m5 |[0m [36mimport[0m { usePathname } [36mfrom[0m [32m"next/navigation"[0m;
+  [90m6 |[0m [36mimport[0m { useState } [36mfrom[0m [32m"react"[0m;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/Navbar.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/Navbar.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/Navbar.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m [33mLink[0m [36mfrom[0m [32m"next/link"[0m;
+  [90m5 |[0m [36mimport[0m { usePathname } [36mfrom[0m [32m"next/navigation"[0m;
+  [90m6 |[0m [36mimport[0m { useState } [36mfrom[0m [32m"react"[0m;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/Navbar.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/Navbar.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/ui/CustomCursor.tsx:4:1
+Module not found: Can't resolve 'framer-motion'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m { useEffect, useState } [36mfrom[0m [32m"react"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m
+  [90m6 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mCustomCursor[0m() {
+  [90m7 |[0m   [36mconst[0m [mousePosition, setMousePosition] = useState({ x: [35m0[0m, y: [35m0[0m });
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/ui/CustomCursor.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/ui/CustomCursor.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/ui/CustomCursor.tsx:4:1
+Module not found: Can't resolve 'framer-motion'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m { useEffect, useState } [36mfrom[0m [32m"react"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m
+  [90m6 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mCustomCursor[0m() {
+  [90m7 |[0m   [36mconst[0m [mousePosition, setMousePosition] = useState({ x: [35m0[0m, y: [35m0[0m });
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/ui/CustomCursor.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/ui/CustomCursor.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/ui/CustomCursor.tsx:4:1
+Module not found: Can't resolve 'framer-motion'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m { useEffect, useState } [36mfrom[0m [32m"react"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m
+  [90m6 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mCustomCursor[0m() {
+  [90m7 |[0m   [36mconst[0m [mousePosition, setMousePosition] = useState({ x: [35m0[0m, y: [35m0[0m });
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/ui/CustomCursor.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/ui/CustomCursor.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/ui/CustomCursor.tsx:4:1
+Module not found: Can't resolve 'framer-motion'
+  [90m2 |[0m
+  [90m3 |[0m [36mimport[0m { useEffect, useState } [36mfrom[0m [32m"react"[0m;
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m
+  [90m6 |[0m [36mexport[0m [36mdefault[0m [36mfunction[0m [33mCustomCursor[0m() {
+  [90m7 |[0m   [36mconst[0m [mousePosition, setMousePosition] = useState({ x: [35m0[0m, y: [35m0[0m });
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/ui/CustomCursor.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/ui/CustomCursor.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/AnimatedStats.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m
+  [90m5 |[0m [36mconst[0m stats = [
+  [90m6 |[0m   { label: [32m"Years Experience"[0m, value: [32m"5+"[0m },
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/AnimatedStats.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/AnimatedStats.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m
+  [90m5 |[0m [36mconst[0m stats = [
+  [90m6 |[0m   { label: [32m"Years Experience"[0m, value: [32m"5+"[0m },
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/AnimatedStats.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/AnimatedStats.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m
+  [90m5 |[0m [36mconst[0m stats = [
+  [90m6 |[0m   { label: [32m"Years Experience"[0m, value: [32m"5+"[0m },
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/AnimatedStats.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/AnimatedStats.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m
+  [90m5 |[0m [36mconst[0m stats = [
+  [90m6 |[0m   { label: [32m"Years Experience"[0m, value: [32m"5+"[0m },
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/AnimatedStats.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/HeroSection.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mArrowRight[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useModals } [36mfrom[0m [32m"@/components/layout/LayoutClient"[0m;
+  [90m6 |[0m [36mimport[0m [33mLink[0m [36mfrom[0m [32m"next/link"[0m;
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/HeroSection.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/HeroSection.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mArrowRight[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useModals } [36mfrom[0m [32m"@/components/layout/LayoutClient"[0m;
+  [90m6 |[0m [36mimport[0m [33mLink[0m [36mfrom[0m [32m"next/link"[0m;
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/HeroSection.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/HeroSection.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mArrowRight[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useModals } [36mfrom[0m [32m"@/components/layout/LayoutClient"[0m;
+  [90m6 |[0m [36mimport[0m [33mLink[0m [36mfrom[0m [32m"next/link"[0m;
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/HeroSection.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/HeroSection.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mArrowRight[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useModals } [36mfrom[0m [32m"@/components/layout/LayoutClient"[0m;
+  [90m6 |[0m [36mimport[0m [33mLink[0m [36mfrom[0m [32m"next/link"[0m;
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/HeroSection.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/ContactModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion, [33mAnimatePresence[0m } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mX[0m, [33mMail[0m, [33mMessageCircle[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useEffect } [36mfrom[0m [32m"react"[0m;
+  [90m6 |[0m
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/ContactModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/ContactModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/ContactModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion, [33mAnimatePresence[0m } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mX[0m, [33mMail[0m, [33mMessageCircle[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useEffect } [36mfrom[0m [32m"react"[0m;
+  [90m6 |[0m
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/ContactModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/ContactModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/ContactModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion, [33mAnimatePresence[0m } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mX[0m, [33mMail[0m, [33mMessageCircle[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useEffect } [36mfrom[0m [32m"react"[0m;
+  [90m6 |[0m
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/ContactModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/ContactModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/ContactModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion, [33mAnimatePresence[0m } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mX[0m, [33mMail[0m, [33mMessageCircle[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useEffect } [36mfrom[0m [32m"react"[0m;
+  [90m6 |[0m
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/ContactModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/ContactModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/ContactModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion, [33mAnimatePresence[0m } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mX[0m, [33mMail[0m, [33mMessageCircle[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useEffect } [36mfrom[0m [32m"react"[0m;
+  [90m6 |[0m
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/ContactModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/ContactModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/ContactModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion, [33mAnimatePresence[0m } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mX[0m, [33mMail[0m, [33mMessageCircle[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useEffect } [36mfrom[0m [32m"react"[0m;
+  [90m6 |[0m
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/ContactModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/ContactModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/HireMeModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion, [33mAnimatePresence[0m } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mX[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useEffect } [36mfrom[0m [32m"react"[0m;
+  [90m6 |[0m
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/HireMeModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/HireMeModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/HireMeModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion, [33mAnimatePresence[0m } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mX[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useEffect } [36mfrom[0m [32m"react"[0m;
+  [90m6 |[0m
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/HireMeModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/HireMeModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/HireMeModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion, [33mAnimatePresence[0m } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mX[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useEffect } [36mfrom[0m [32m"react"[0m;
+  [90m6 |[0m
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/HireMeModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/HireMeModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/HireMeModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion, [33mAnimatePresence[0m } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mX[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useEffect } [36mfrom[0m [32m"react"[0m;
+  [90m6 |[0m
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/HireMeModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/HireMeModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/HireMeModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion, [33mAnimatePresence[0m } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mX[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useEffect } [36mfrom[0m [32m"react"[0m;
+  [90m6 |[0m
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/HireMeModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/HireMeModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/HireMeModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion, [33mAnimatePresence[0m } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mX[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useEffect } [36mfrom[0m [32m"react"[0m;
+  [90m6 |[0m
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/HireMeModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/HireMeModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/Navbar.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m [33mLink[0m [36mfrom[0m [32m"next/link"[0m;
+  [90m5 |[0m [36mimport[0m { usePathname } [36mfrom[0m [32m"next/navigation"[0m;
+  [90m6 |[0m [36mimport[0m { useState } [36mfrom[0m [32m"react"[0m;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/Navbar.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/Navbar.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/Navbar.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m [33mLink[0m [36mfrom[0m [32m"next/link"[0m;
+  [90m5 |[0m [36mimport[0m { usePathname } [36mfrom[0m [32m"next/navigation"[0m;
+  [90m6 |[0m [36mimport[0m { useState } [36mfrom[0m [32m"react"[0m;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/Navbar.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/Navbar.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/Navbar.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m [33mLink[0m [36mfrom[0m [32m"next/link"[0m;
+  [90m5 |[0m [36mimport[0m { usePathname } [36mfrom[0m [32m"next/navigation"[0m;
+  [90m6 |[0m [36mimport[0m { useState } [36mfrom[0m [32m"react"[0m;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/Navbar.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/Navbar.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/Navbar.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m [33mLink[0m [36mfrom[0m [32m"next/link"[0m;
+  [90m5 |[0m [36mimport[0m { usePathname } [36mfrom[0m [32m"next/navigation"[0m;
+  [90m6 |[0m [36mimport[0m { useState } [36mfrom[0m [32m"react"[0m;
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/Navbar.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/Navbar.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/AnimatedStats.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m
+  [90m5 |[0m [36mconst[0m stats = [
+  [90m6 |[0m   { label: [32m"Years Experience"[0m, value: [32m"5+"[0m },
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/AnimatedStats.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/AnimatedStats.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m
+  [90m5 |[0m [36mconst[0m stats = [
+  [90m6 |[0m   { label: [32m"Years Experience"[0m, value: [32m"5+"[0m },
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/AnimatedStats.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/AnimatedStats.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m
+  [90m5 |[0m [36mconst[0m stats = [
+  [90m6 |[0m   { label: [32m"Years Experience"[0m, value: [32m"5+"[0m },
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/AnimatedStats.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/AnimatedStats.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m
+  [90m5 |[0m [36mconst[0m stats = [
+  [90m6 |[0m   { label: [32m"Years Experience"[0m, value: [32m"5+"[0m },
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/AnimatedStats.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/HeroSection.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mArrowRight[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useModals } [36mfrom[0m [32m"@/components/layout/LayoutClient"[0m;
+  [90m6 |[0m [36mimport[0m [33mLink[0m [36mfrom[0m [32m"next/link"[0m;
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/HeroSection.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/HeroSection.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mArrowRight[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useModals } [36mfrom[0m [32m"@/components/layout/LayoutClient"[0m;
+  [90m6 |[0m [36mimport[0m [33mLink[0m [36mfrom[0m [32m"next/link"[0m;
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/HeroSection.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/HeroSection.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mArrowRight[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useModals } [36mfrom[0m [32m"@/components/layout/LayoutClient"[0m;
+  [90m6 |[0m [36mimport[0m [33mLink[0m [36mfrom[0m [32m"next/link"[0m;
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/HeroSection.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/HeroSection.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mArrowRight[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useModals } [36mfrom[0m [32m"@/components/layout/LayoutClient"[0m;
+  [90m6 |[0m [36mimport[0m [33mLink[0m [36mfrom[0m [32m"next/link"[0m;
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/HeroSection.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/ContactModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion, [33mAnimatePresence[0m } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mX[0m, [33mMail[0m, [33mMessageCircle[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useEffect } [36mfrom[0m [32m"react"[0m;
+  [90m6 |[0m
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/ContactModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/ContactModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/ContactModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion, [33mAnimatePresence[0m } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mX[0m, [33mMail[0m, [33mMessageCircle[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useEffect } [36mfrom[0m [32m"react"[0m;
+  [90m6 |[0m
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/ContactModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/ContactModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/ContactModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion, [33mAnimatePresence[0m } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mX[0m, [33mMail[0m, [33mMessageCircle[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useEffect } [36mfrom[0m [32m"react"[0m;
+  [90m6 |[0m
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/ContactModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/ContactModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/ContactModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion, [33mAnimatePresence[0m } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mX[0m, [33mMail[0m, [33mMessageCircle[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useEffect } [36mfrom[0m [32m"react"[0m;
+  [90m6 |[0m
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/ContactModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/ContactModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/ContactModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion, [33mAnimatePresence[0m } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mX[0m, [33mMail[0m, [33mMessageCircle[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useEffect } [36mfrom[0m [32m"react"[0m;
+  [90m6 |[0m
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/ContactModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/ContactModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/ContactModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion, [33mAnimatePresence[0m } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mX[0m, [33mMail[0m, [33mMessageCircle[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useEffect } [36mfrom[0m [32m"react"[0m;
+  [90m6 |[0m
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/ContactModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/ContactModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/HireMeModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion, [33mAnimatePresence[0m } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mX[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useEffect } [36mfrom[0m [32m"react"[0m;
+  [90m6 |[0m
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/HireMeModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/HireMeModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/HireMeModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion, [33mAnimatePresence[0m } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mX[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useEffect } [36mfrom[0m [32m"react"[0m;
+  [90m6 |[0m
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/HireMeModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/HireMeModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/HireMeModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion, [33mAnimatePresence[0m } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mX[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useEffect } [36mfrom[0m [32m"react"[0m;
+  [90m6 |[0m
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/HireMeModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/HireMeModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/HireMeModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion, [33mAnimatePresence[0m } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mX[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useEffect } [36mfrom[0m [32m"react"[0m;
+  [90m6 |[0m
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/HireMeModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/HireMeModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/HireMeModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion, [33mAnimatePresence[0m } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mX[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useEffect } [36mfrom[0m [32m"react"[0m;
+  [90m6 |[0m
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/HireMeModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/HireMeModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/HireMeModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion, [33mAnimatePresence[0m } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mX[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useEffect } [36mfrom[0m [32m"react"[0m;
+  [90m6 |[0m
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/HireMeModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/HireMeModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/AnimatedStats.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m
+  [90m5 |[0m [36mconst[0m stats = [
+  [90m6 |[0m   { label: [32m"Years Experience"[0m, value: [32m"5+"[0m },
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/AnimatedStats.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/AnimatedStats.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m
+  [90m5 |[0m [36mconst[0m stats = [
+  [90m6 |[0m   { label: [32m"Years Experience"[0m, value: [32m"5+"[0m },
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/AnimatedStats.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/AnimatedStats.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m
+  [90m5 |[0m [36mconst[0m stats = [
+  [90m6 |[0m   { label: [32m"Years Experience"[0m, value: [32m"5+"[0m },
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/AnimatedStats.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/AnimatedStats.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m
+  [90m5 |[0m [36mconst[0m stats = [
+  [90m6 |[0m   { label: [32m"Years Experience"[0m, value: [32m"5+"[0m },
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/AnimatedStats.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/HeroSection.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mArrowRight[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useModals } [36mfrom[0m [32m"@/components/layout/LayoutClient"[0m;
+  [90m6 |[0m [36mimport[0m [33mLink[0m [36mfrom[0m [32m"next/link"[0m;
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/HeroSection.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/HeroSection.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mArrowRight[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useModals } [36mfrom[0m [32m"@/components/layout/LayoutClient"[0m;
+  [90m6 |[0m [36mimport[0m [33mLink[0m [36mfrom[0m [32m"next/link"[0m;
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/HeroSection.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/HeroSection.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mArrowRight[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useModals } [36mfrom[0m [32m"@/components/layout/LayoutClient"[0m;
+  [90m6 |[0m [36mimport[0m [33mLink[0m [36mfrom[0m [32m"next/link"[0m;
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/HeroSection.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/HeroSection.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mArrowRight[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useModals } [36mfrom[0m [32m"@/components/layout/LayoutClient"[0m;
+  [90m6 |[0m [36mimport[0m [33mLink[0m [36mfrom[0m [32m"next/link"[0m;
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/HeroSection.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/ContactModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion, [33mAnimatePresence[0m } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mX[0m, [33mMail[0m, [33mMessageCircle[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useEffect } [36mfrom[0m [32m"react"[0m;
+  [90m6 |[0m
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/ContactModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/ContactModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/ContactModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion, [33mAnimatePresence[0m } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mX[0m, [33mMail[0m, [33mMessageCircle[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useEffect } [36mfrom[0m [32m"react"[0m;
+  [90m6 |[0m
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/ContactModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/ContactModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/ContactModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion, [33mAnimatePresence[0m } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mX[0m, [33mMail[0m, [33mMessageCircle[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useEffect } [36mfrom[0m [32m"react"[0m;
+  [90m6 |[0m
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/ContactModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/ContactModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/ContactModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion, [33mAnimatePresence[0m } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mX[0m, [33mMail[0m, [33mMessageCircle[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useEffect } [36mfrom[0m [32m"react"[0m;
+  [90m6 |[0m
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/ContactModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/ContactModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/ContactModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion, [33mAnimatePresence[0m } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mX[0m, [33mMail[0m, [33mMessageCircle[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useEffect } [36mfrom[0m [32m"react"[0m;
+  [90m6 |[0m
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/ContactModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/ContactModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/ContactModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion, [33mAnimatePresence[0m } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mX[0m, [33mMail[0m, [33mMessageCircle[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useEffect } [36mfrom[0m [32m"react"[0m;
+  [90m6 |[0m
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/ContactModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/ContactModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/HireMeModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mX[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { useEffect, useRef, useState } [36mfrom[0m [32m"react"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m gsap [36mfrom[0m [32m"gsap"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36minterface[0m [33mModalProps[0m {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/HireMeModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/HireMeModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/HireMeModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mX[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { useEffect, useRef, useState } [36mfrom[0m [32m"react"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m gsap [36mfrom[0m [32m"gsap"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36minterface[0m [33mModalProps[0m {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/HireMeModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/HireMeModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/HireMeModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mX[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { useEffect, useRef, useState } [36mfrom[0m [32m"react"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m gsap [36mfrom[0m [32m"gsap"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36minterface[0m [33mModalProps[0m {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/HireMeModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/HireMeModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/HireMeModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mX[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { useEffect, useRef, useState } [36mfrom[0m [32m"react"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m gsap [36mfrom[0m [32m"gsap"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36minterface[0m [33mModalProps[0m {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/HireMeModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/HireMeModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/HireMeModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mX[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { useEffect, useRef, useState } [36mfrom[0m [32m"react"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m gsap [36mfrom[0m [32m"gsap"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36minterface[0m [33mModalProps[0m {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/HireMeModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/HireMeModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/HireMeModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mX[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { useEffect, useRef, useState } [36mfrom[0m [32m"react"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m gsap [36mfrom[0m [32m"gsap"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36minterface[0m [33mModalProps[0m {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/HireMeModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/HireMeModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/AnimatedStats.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m
+  [90m5 |[0m [36mconst[0m stats = [
+  [90m6 |[0m   { label: [32m"Years Experience"[0m, value: [32m"5+"[0m },
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/AnimatedStats.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/AnimatedStats.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m
+  [90m5 |[0m [36mconst[0m stats = [
+  [90m6 |[0m   { label: [32m"Years Experience"[0m, value: [32m"5+"[0m },
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/AnimatedStats.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/AnimatedStats.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m
+  [90m5 |[0m [36mconst[0m stats = [
+  [90m6 |[0m   { label: [32m"Years Experience"[0m, value: [32m"5+"[0m },
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/AnimatedStats.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/AnimatedStats.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m
+  [90m5 |[0m [36mconst[0m stats = [
+  [90m6 |[0m   { label: [32m"Years Experience"[0m, value: [32m"5+"[0m },
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/AnimatedStats.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/HeroSection.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mArrowRight[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useModals } [36mfrom[0m [32m"@/components/layout/LayoutClient"[0m;
+  [90m6 |[0m [36mimport[0m [33mLink[0m [36mfrom[0m [32m"next/link"[0m;
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/HeroSection.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/HeroSection.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mArrowRight[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useModals } [36mfrom[0m [32m"@/components/layout/LayoutClient"[0m;
+  [90m6 |[0m [36mimport[0m [33mLink[0m [36mfrom[0m [32m"next/link"[0m;
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/HeroSection.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/HeroSection.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mArrowRight[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useModals } [36mfrom[0m [32m"@/components/layout/LayoutClient"[0m;
+  [90m6 |[0m [36mimport[0m [33mLink[0m [36mfrom[0m [32m"next/link"[0m;
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/HeroSection.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/HeroSection.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mArrowRight[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useModals } [36mfrom[0m [32m"@/components/layout/LayoutClient"[0m;
+  [90m6 |[0m [36mimport[0m [33mLink[0m [36mfrom[0m [32m"next/link"[0m;
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/HeroSection.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/ContactModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mX[0m, [33mMail[0m, [33mMessageCircle[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { useEffect, useRef, useState } [36mfrom[0m [32m"react"[0m;
+  [90m  |[0m [31m[1m^[0m
+  [90m5 |[0m [36mimport[0m gsap [36mfrom[0m [32m"gsap"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36minterface[0m [33mModalProps[0m {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/ContactModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/ContactModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/ContactModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mX[0m, [33mMail[0m, [33mMessageCircle[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { useEffect, useRef, useState } [36mfrom[0m [32m"react"[0m;
+  [90m  |[0m [31m[1m^[0m
+  [90m5 |[0m [36mimport[0m gsap [36mfrom[0m [32m"gsap"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36minterface[0m [33mModalProps[0m {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/ContactModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/ContactModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/ContactModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mX[0m, [33mMail[0m, [33mMessageCircle[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { useEffect, useRef, useState } [36mfrom[0m [32m"react"[0m;
+  [90m  |[0m [31m[1m^[0m
+  [90m5 |[0m [36mimport[0m gsap [36mfrom[0m [32m"gsap"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36minterface[0m [33mModalProps[0m {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/ContactModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/ContactModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/ContactModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mX[0m, [33mMail[0m, [33mMessageCircle[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { useEffect, useRef, useState } [36mfrom[0m [32m"react"[0m;
+  [90m  |[0m [31m[1m^[0m
+  [90m5 |[0m [36mimport[0m gsap [36mfrom[0m [32m"gsap"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36minterface[0m [33mModalProps[0m {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/ContactModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/ContactModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/ContactModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mX[0m, [33mMail[0m, [33mMessageCircle[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { useEffect, useRef, useState } [36mfrom[0m [32m"react"[0m;
+  [90m  |[0m [31m[1m^[0m
+  [90m5 |[0m [36mimport[0m gsap [36mfrom[0m [32m"gsap"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36minterface[0m [33mModalProps[0m {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/ContactModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/ContactModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/ContactModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mX[0m, [33mMail[0m, [33mMessageCircle[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { useEffect, useRef, useState } [36mfrom[0m [32m"react"[0m;
+  [90m  |[0m [31m[1m^[0m
+  [90m5 |[0m [36mimport[0m gsap [36mfrom[0m [32m"gsap"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36minterface[0m [33mModalProps[0m {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/ContactModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/ContactModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/HireMeModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mX[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { useEffect, useRef, useState } [36mfrom[0m [32m"react"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m gsap [36mfrom[0m [32m"gsap"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36minterface[0m [33mModalProps[0m {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/HireMeModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/HireMeModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/HireMeModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mX[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { useEffect, useRef, useState } [36mfrom[0m [32m"react"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m gsap [36mfrom[0m [32m"gsap"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36minterface[0m [33mModalProps[0m {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/HireMeModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/HireMeModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/HireMeModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mX[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { useEffect, useRef, useState } [36mfrom[0m [32m"react"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m gsap [36mfrom[0m [32m"gsap"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36minterface[0m [33mModalProps[0m {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/HireMeModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/HireMeModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/HireMeModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mX[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { useEffect, useRef, useState } [36mfrom[0m [32m"react"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m gsap [36mfrom[0m [32m"gsap"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36minterface[0m [33mModalProps[0m {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/HireMeModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/HireMeModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/HireMeModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mX[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { useEffect, useRef, useState } [36mfrom[0m [32m"react"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m gsap [36mfrom[0m [32m"gsap"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36minterface[0m [33mModalProps[0m {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/HireMeModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/HireMeModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/HireMeModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mX[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { useEffect, useRef, useState } [36mfrom[0m [32m"react"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m gsap [36mfrom[0m [32m"gsap"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36minterface[0m [33mModalProps[0m {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/HireMeModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/HireMeModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/AnimatedStats.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m
+  [90m5 |[0m [36mconst[0m stats = [
+  [90m6 |[0m   { label: [32m"Years Experience"[0m, value: [32m"5+"[0m },
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/AnimatedStats.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/AnimatedStats.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m
+  [90m5 |[0m [36mconst[0m stats = [
+  [90m6 |[0m   { label: [32m"Years Experience"[0m, value: [32m"5+"[0m },
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/AnimatedStats.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/AnimatedStats.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m
+  [90m5 |[0m [36mconst[0m stats = [
+  [90m6 |[0m   { label: [32m"Years Experience"[0m, value: [32m"5+"[0m },
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/AnimatedStats.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/AnimatedStats.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m
+  [90m5 |[0m [36mconst[0m stats = [
+  [90m6 |[0m   { label: [32m"Years Experience"[0m, value: [32m"5+"[0m },
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/AnimatedStats.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/HeroSection.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mArrowRight[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useModals } [36mfrom[0m [32m"@/components/layout/LayoutClient"[0m;
+  [90m6 |[0m [36mimport[0m [33mLink[0m [36mfrom[0m [32m"next/link"[0m;
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/HeroSection.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/HeroSection.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mArrowRight[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useModals } [36mfrom[0m [32m"@/components/layout/LayoutClient"[0m;
+  [90m6 |[0m [36mimport[0m [33mLink[0m [36mfrom[0m [32m"next/link"[0m;
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/HeroSection.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/HeroSection.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mArrowRight[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useModals } [36mfrom[0m [32m"@/components/layout/LayoutClient"[0m;
+  [90m6 |[0m [36mimport[0m [33mLink[0m [36mfrom[0m [32m"next/link"[0m;
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/HeroSection.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/HeroSection.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mArrowRight[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useModals } [36mfrom[0m [32m"@/components/layout/LayoutClient"[0m;
+  [90m6 |[0m [36mimport[0m [33mLink[0m [36mfrom[0m [32m"next/link"[0m;
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/HeroSection.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/HireMeModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mX[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { useEffect, useRef, useState } [36mfrom[0m [32m"react"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m gsap [36mfrom[0m [32m"gsap"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36minterface[0m [33mModalProps[0m {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/HireMeModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/HireMeModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/HireMeModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mX[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { useEffect, useRef, useState } [36mfrom[0m [32m"react"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m gsap [36mfrom[0m [32m"gsap"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36minterface[0m [33mModalProps[0m {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/HireMeModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/HireMeModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/HireMeModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mX[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { useEffect, useRef, useState } [36mfrom[0m [32m"react"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m gsap [36mfrom[0m [32m"gsap"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36minterface[0m [33mModalProps[0m {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/HireMeModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/HireMeModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/HireMeModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mX[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { useEffect, useRef, useState } [36mfrom[0m [32m"react"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m gsap [36mfrom[0m [32m"gsap"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36minterface[0m [33mModalProps[0m {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/HireMeModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/HireMeModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/HireMeModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mX[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { useEffect, useRef, useState } [36mfrom[0m [32m"react"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m gsap [36mfrom[0m [32m"gsap"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36minterface[0m [33mModalProps[0m {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/HireMeModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/HireMeModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/layout/HireMeModal.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { [33mX[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+[31m[1m>[0m [90m4 |[0m [36mimport[0m { useEffect, useRef, useState } [36mfrom[0m [32m"react"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m5 |[0m [36mimport[0m gsap [36mfrom[0m [32m"gsap"[0m;
+  [90m6 |[0m
+  [90m7 |[0m [36minterface[0m [33mModalProps[0m {
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/components/layout/HireMeModal.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Client Component Browser]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/layout/HireMeModal.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Client Component SSR]
+    ./src/components/layout/LayoutClient.tsx [Server Component]
+    ./src/app/layout.tsx [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/AnimatedStats.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m
+  [90m5 |[0m [36mconst[0m stats = [
+  [90m6 |[0m   { label: [32m"Years Experience"[0m, value: [32m"5+"[0m },
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/AnimatedStats.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/AnimatedStats.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m
+  [90m5 |[0m [36mconst[0m stats = [
+  [90m6 |[0m   { label: [32m"Years Experience"[0m, value: [32m"5+"[0m },
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/AnimatedStats.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/AnimatedStats.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m
+  [90m5 |[0m [36mconst[0m stats = [
+  [90m6 |[0m   { label: [32m"Years Experience"[0m, value: [32m"5+"[0m },
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/AnimatedStats.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/AnimatedStats.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m
+  [90m5 |[0m [36mconst[0m stats = [
+  [90m6 |[0m   { label: [32m"Years Experience"[0m, value: [32m"5+"[0m },
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/AnimatedStats.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/HeroSection.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mArrowRight[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useModals } [36mfrom[0m [32m"@/components/layout/LayoutClient"[0m;
+  [90m6 |[0m [36mimport[0m [33mLink[0m [36mfrom[0m [32m"next/link"[0m;
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/HeroSection.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/HeroSection.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mArrowRight[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useModals } [36mfrom[0m [32m"@/components/layout/LayoutClient"[0m;
+  [90m6 |[0m [36mimport[0m [33mLink[0m [36mfrom[0m [32m"next/link"[0m;
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/HeroSection.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/HeroSection.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mArrowRight[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useModals } [36mfrom[0m [32m"@/components/layout/LayoutClient"[0m;
+  [90m6 |[0m [36mimport[0m [33mLink[0m [36mfrom[0m [32m"next/link"[0m;
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/HeroSection.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/HeroSection.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m [36mimport[0m { [33mArrowRight[0m } [36mfrom[0m [32m"lucide-react"[0m;
+  [90m5 |[0m [36mimport[0m { useModals } [36mfrom[0m [32m"@/components/layout/LayoutClient"[0m;
+  [90m6 |[0m [36mimport[0m [33mLink[0m [36mfrom[0m [32m"next/link"[0m;
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/HeroSection.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/AnimatedStats.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m
+  [90m5 |[0m [36mconst[0m stats = [
+  [90m6 |[0m   { label: [32m"Years Experience"[0m, value: [32m"5+"[0m },
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/AnimatedStats.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/AnimatedStats.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m
+  [90m5 |[0m [36mconst[0m stats = [
+  [90m6 |[0m   { label: [32m"Years Experience"[0m, value: [32m"5+"[0m },
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/AnimatedStats.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/AnimatedStats.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m
+  [90m5 |[0m [36mconst[0m stats = [
+  [90m6 |[0m   { label: [32m"Years Experience"[0m, value: [32m"5+"[0m },
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/AnimatedStats.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+⨯ ./src/components/home/AnimatedStats.tsx:3:1
+Module not found: Can't resolve 'framer-motion'
+  [90m1 |[0m [32m"use client"[0m;
+  [90m2 |[0m
+[31m[1m>[0m [90m3 |[0m [36mimport[0m { motion } [36mfrom[0m [32m"framer-motion"[0m;
+  [90m  |[0m [31m[1m^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m
+  [90m4 |[0m
+  [90m5 |[0m [36mconst[0m stats = [
+  [90m6 |[0m   { label: [32m"Years Experience"[0m, value: [32m"5+"[0m },
+
+
+
+Import trace:
+  Server Component:
+    ./src/components/home/AnimatedStats.tsx
+    ./src/app/page.tsx
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+✓ Compiled in 195ms
+[?25h

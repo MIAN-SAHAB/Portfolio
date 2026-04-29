@@ -1,12 +1,24 @@
 "use client";
 
-import { motion } from "framer-motion";
 import { ArrowRight } from "lucide-react";
 import { useModals } from "@/components/layout/LayoutClient";
 import Link from "next/link";
+import { useEffect, useRef } from "react";
+import gsap from "gsap";
 
 export default function HeroSection() {
   const { openHireMe, openContact } = useModals();
+  const containerRef = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    if (containerRef.current) {
+      gsap.fromTo(
+        containerRef.current,
+        { opacity: 0, y: 30 },
+        { opacity: 1, y: 0, duration: 0.8, ease: "power2.out" }
+      );
+    }
+  }, []);
 
   return (
     <section className="relative min-h-[90vh] flex items-center justify-center overflow-hidden">
@@ -15,11 +27,7 @@ export default function HeroSection() {
       <div className="absolute bottom-1/4 right-1/4 w-96 h-96 bg-accent/20 rounded-full blur-[100px] pointer-events-none" />
 
       <div className="container mx-auto px-6 z-10 text-center">
-        <motion.div
-          initial={{ opacity: 0, y: 30 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.8, ease: "easeOut" }}
-        >
+        <div ref={containerRef}>
           <div className="inline-block mb-4 px-4 py-1.5 rounded-full border border-primary/30 bg-primary/10 text-primary font-mono text-sm tracking-wider">
             HELLO, WORLD
           </div>
@@ -54,7 +62,7 @@ export default function HeroSection() {
               Contact Me
             </button>
           </div>
-        </motion.div>
+        </div>
       </div>
     </section>
   );

@@ -1,6 +1,10 @@
 "use client";
 
-import { motion } from "framer-motion";
+import { useEffect, useRef } from "react";
+import gsap from "gsap";
+import { ScrollTrigger } from "gsap/ScrollTrigger";
+
+gsap.registerPlugin(ScrollTrigger);
 
 const stats = [
   { label: "Years Experience", value: "5+" },
@@ -10,18 +14,38 @@ const stats = [
 ];
 
 export default function AnimatedStats() {
+  const containerRef = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    if (containerRef.current) {
+      const cards = containerRef.current.querySelectorAll(".stat-card");
+      gsap.fromTo(
+        cards,
+        { opacity: 0, scale: 0.8 },
+        {
+          opacity: 1,
+          scale: 1,
+          duration: 0.5,
+          stagger: 0.1,
+          ease: "back.out(1.7)",
+          scrollTrigger: {
+            trigger: containerRef.current,
+            start: "top 80%",
+            once: true,
+          },
+        }
+      );
+    }
+  }, []);
+
   return (
-    <section className="py-20 relative z-10">
+    <section className="py-20 relative z-10" ref={containerRef}>
       <div className="container mx-auto px-6">
         <div className="grid grid-cols-2 md:grid-cols-4 gap-8">
-          {stats.map((stat, i) => (
-            <motion.div
+          {stats.map((stat) => (
+            <div
               key={stat.label}
-              initial={{ opacity: 0, scale: 0.8 }}
-              whileInView={{ opacity: 1, scale: 1 }}
-              viewport={{ once: true }}
-              transition={{ delay: i * 0.1, duration: 0.5, type: "spring" }}
-              className="glass-card rounded-2xl p-8 text-center flex flex-col justify-center items-center group hover:border-primary/50 transition-colors"
+              className="stat-card glass-card rounded-2xl p-8 text-center flex flex-col justify-center items-center group hover:border-primary/50 transition-colors"
             >
               <div className="text-4xl md:text-5xl font-black text-transparent bg-clip-text bg-gradient-to-br from-white to-gray-500 mb-2 group-hover:from-primary group-hover:to-accent transition-all">
                 {stat.value}
@@ -29,7 +53,7 @@ export default function AnimatedStats() {
               <div className="text-sm md:text-base text-gray-400 font-medium tracking-wide uppercase">
                 {stat.label}
               </div>
-            </motion.div>
+            </div>
           ))}
         </div>
       </div>
